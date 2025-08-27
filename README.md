@@ -66,7 +66,8 @@ REMOVE_FILE_AFTER_MINS = 40
 HASHTAGS = "#ejemplo #reels"
 
 5. Ejecución
-python main.py
+cd src
+python3 app.py
 
 El bot:
 Scrapea reels y shorts según intervalos configurados.
@@ -144,5 +145,6 @@ Este proyecto es para fines educativos. Asegúrate de cumplir con los términos 
 ------------------------------------------------------------------------
 
 Disclaimer: Este software está destinado para fines educativos. El usuario es responsable de cumplir con los términos de servicio de las plataformas utilizadas.
+
 
 
