@@ -71,22 +71,22 @@ Elimina archivos antiguos según REMOVE_FILE_AFTER_MINS.
 
 Instagram-Reels-Scraper-Auto-Poster/
 │
-├── src/                    # Código fuente principal
-│   ├── app.py             # Loop principal
-│   ├── auth.py            # Autenticación de Instagram
-│   ├── config.py          # Configuración
-│   ├── helpers.py         # Utilidades
-│   ├── utils_excel.py     # Manejo de Excel
-│   ├── reels.py           # Scraping de Instagram Reels
-│   ├── shorts.py          # Scraping de YouTube Shorts
-│   ├── poster.py          # Publicación en Instagram
-│   └── remover.py         # Limpieza de archivos
+├── src/                   Código fuente principal
+│   ├── app.py             Loop principal
+│   ├── auth.py            Autenticación de Instagram
+│   ├── config.py          Configuración
+│   ├── helpers.py         Utilidades
+│   ├── utils_excel.py     Manejo de Excel
+│   ├── reels.py           Scraping de Instagram Reels
+│   ├── shorts.py          Scraping de YouTube Shorts
+│   ├── poster.py          Publicación en Instagram
+│   └── remover.py         Limpieza de archivos
 │
-├── downloads/             # Archivos descargados (creado automáticamente)
-├── database/              # Base de datos Excel
-│   └── reels.xlsx         # Registro de contenido
-├── main.py                # Punto de entrada
-├── requirements.txt       # Dependencias
+├── downloads/             Archivos descargados (creado automáticamente)
+├── database/              Base de datos Excel
+│   └── reels.xlsx         Registro de contenido
+├── main.py                Punto de entrada
+├── requirements.txt       Dependencias
 -----------------------------------------------------------------
 # Configuración avanzada
 
