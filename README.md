@@ -36,8 +36,8 @@ API Key de YouTube (opcional, para scraping de Shorts)
 
 1. Clonar repositorio:
 ```bash
-git clone <repo_url>
-cd <repo>
+git clone https://github.com/edwinroket/Instagram-Reels-Scraper-Auto-Poster.git
+cd Instagram-Reels-Scraper-Auto-Poster
 2. Crear entorno virtual (opcional pero recomendado):
 python3 -m venv venv
 
@@ -144,4 +144,5 @@ Este proyecto es para fines educativos. Asegúrate de cumplir con los términos 
 ------------------------------------------------------------------------
 
 Disclaimer: Este software está destinado para fines educativos. El usuario es responsable de cumplir con los términos de servicio de las plataformas utilizadas.
+
 
