@@ -157,7 +157,22 @@ El bot opera en un ciclo continuo que:
 
 ---
 
-## Licencia y Disclaimer
+## Futuras mejoras / Roadmap
+
+- [ ] Soporte para múltiples cuentas de Instagram con rotación automática.  
+- [ ] Integración con Telegram/Discord para notificaciones de publicaciones.  
+- [ ] Dashboard web para monitorear scraping y publicaciones.  
+- [ ] Sistema de logs más detallado con historial de publicaciones.  
+- [ ] Implementar Docker para despliegue más sencillo en servidores.  
+- [ ] Compatibilidad con Windows y macOS además de Linux.  
+- [ ] Selección de hashtags automáticos según tendencias.  
+- [ ] Colas de contenido para programar manualmente qué publicar y cuándo.  
+
+---
+
+## 
+Licencia y Disclaimer
 
 Este proyecto es **educativo**.  
 El usuario es responsable de cumplir con los términos de servicio de Instagram y YouTube.
+
