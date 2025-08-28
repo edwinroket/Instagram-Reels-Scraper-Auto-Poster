@@ -131,7 +131,7 @@ El bot opera en un ciclo continuo que:
 
 ---
 
-## Troubleshooting
+## Troubleshooting / Solución de problemas
 
 **Problemas comunes:**
 
@@ -175,4 +175,5 @@ Licencia y Disclaimer
 
 Este proyecto es **educativo**.  
 El usuario es responsable de cumplir con los términos de servicio de Instagram y YouTube.
+
 
