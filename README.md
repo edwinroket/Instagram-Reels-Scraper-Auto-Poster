@@ -22,7 +22,7 @@ Este proyecto automatiza el scraping de Reels de Instagram y Shorts de YouTube, 
 - Python 3.8+  
 - Cuenta de Instagram  
 - API Key de YouTube (opcional, para scraping de Shorts)  
-- Sistema operativo: **Linux**
+- Sistema operativo: **Linux** (preferiblemente)
 
 ---
 
@@ -175,5 +175,6 @@ Licencia y Disclaimer
 
 Este proyecto es **educativo**.  
 El usuario es responsable de cumplir con los términos de servicio de Instagram y YouTube.
+
 
 
